@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>DataSource-Druid</module>
+        <module>Custom-Starter</module>
     </modules>
 
 
